@@ -7,7 +7,8 @@ Instead of navigating files through a traditional 2D interface, FileWorld transf
 
 The project combines file management, 3D interaction, spatial organization, and visual effects into an experimental approach to exploring digital files.
 
-![FileWorld Overview](screenshots/01-overview.png)
+![FileWorld Overview]
+(screenshots/01-overview.png)
 
 ## Features
 
